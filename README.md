@@ -12,7 +12,9 @@ El objetivo es identificar diferentes tipos de licencias y explicar las condicio
 
 ## Imagen 1
 Archivo: harry-potter-teddy-bear.jpg 
+
 Autor: Sound Media 
+
 Fuente: https://www.publicdomainpictures.net/es/view-image.php?image=391409&picture=osito-de-peluche-de-harry-potter
 
 Licencia: CC0 – Dominio Público  
