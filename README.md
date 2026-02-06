@@ -25,6 +25,7 @@ Sound Media ha publicado esta imagen "Osito de peluche de harry potter" bajo lic
 
 ## Imagen 2
 Archivo: Harry_Potter_Book_and_Wand.jpg 
+
 Autor: Suzelfe  
 Fuente: https://commons.wikimedia.org/wiki/File:Harry_Potter_Book_and_Wand.jpg
 
