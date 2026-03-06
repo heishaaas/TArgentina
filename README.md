@@ -1,7 +1,7 @@
 # TArgentina
 Actividad 2 de Licencias Creative Commons
 
-Participante: Heisha Acevedo, Brandy Pérez, Dereck Medina, Yudelka Peña, Josué Rincón
+Participante: Heisha Acevedo, Dereck Medina, Yudelka Peña
 
 Tema: Ética, Ciberseguridad y Derechos de Autor en la Web  
 
